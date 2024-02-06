@@ -1,7 +1,7 @@
 # New Zealand
 
 
-city.docx is a short list of the main cities in New Zealand for a short visit.
+city.md is a list of the main cities in New Zealand to visit on a short tour.
 
 
 Here's a list of the many daywalks around
